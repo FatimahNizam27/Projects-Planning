@@ -11,3 +11,11 @@ Optiver Realized Volatility Prediction - Financial Market (https://www.kaggle.co
 - Oracle (SQL): Focus on the Oracle Training (Project due date Sept 2021)
 
 - Power BI
+
+- 5 Projects for developers to level up coding skills:
+
+1. Website Scraping (HTML + Beautiful Soup) (Done - Enhance)
+2. Dice Rolling Simulation (Random Number 1-6)
+3. Website Blocker
+4. Flappy Bird
+
